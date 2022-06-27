@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=jovanhermawan)
-## :book: About me
+## :book: About Me
 - 🖥 Machine Learning Engineer
 - 🎓 Studying Information Engineering 𝚊𝚝 Nanyang Technological University, class of 2023
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jovanhermawan)
 
 
