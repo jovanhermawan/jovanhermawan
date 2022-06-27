@@ -1,4 +1,6 @@
-### Hi there 👋
+## :book: About me
+- 🖥 Machine Learning Engineer
+- 🎓 Studying Information Engineering 𝚊𝚝 Nanyang Technological University, class of 2023
 
 <!--
 **jovanhermawan/jovanhermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
