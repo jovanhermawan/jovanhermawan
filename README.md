@@ -2,6 +2,9 @@
 - 🖥 Machine Learning Engineer
 - 🎓 Studying Information Engineering 𝚊𝚝 Nanyang Technological University, class of 2023
 
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!--
 **jovanhermawan/jovanhermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
