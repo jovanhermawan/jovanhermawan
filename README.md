@@ -3,7 +3,7 @@
 - 🖥 Machine Learning Engineer
 - 🎓 Studying Information Engineering 𝚊𝚝 Nanyang Technological University, class of 2023
 
-## Recent Activity
+## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
