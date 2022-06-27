@@ -8,6 +8,14 @@
 <!--END_SECTION:activity-->
 
 ## 🔔 Github Metrics
+
+<a href="https://github.com/jovanhermawan/jovanhermawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanhermawan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/jovanhermawan/jovanhermawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanhermawan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jovan's GitHub Stats" />
+</a>
+
 ![Metrics](https://metrics.lecoq.io/jovanhermawan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
@@ -30,12 +38,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/jovanhermawan/jovanhermawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanhermawan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/jovanhermawan/jovanhermawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanhermawan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jovan's GitHub Stats" />
-</a>
 
 
 
