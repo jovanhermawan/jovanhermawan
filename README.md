@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=jovanhermawan)
 ## :book: About me
 - 🖥 Machine Learning Engineer
 - 🎓 Studying Information Engineering 𝚊𝚝 Nanyang Technological University, class of 2023
@@ -8,6 +9,7 @@
 
 ## 🔔 Github Metrics
 ![Metrics](https://metrics.lecoq.io/jovanhermawan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
 
 
 
@@ -27,6 +29,18 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanhermawan)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=jovanhermawan)
+<a href="https://github.com/jovanhermawan/jovanhermawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanhermawan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/jovanhermawan/jovanhermawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanhermawan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jovan's GitHub Stats" />
+</a>
+
+
+
+### 📫 How to reach me:
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jovanhermawan)
+
+
+
